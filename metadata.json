@@ -1,0 +1,5 @@
+{
+  "name": "Clash de React",
+  "description": "Um jogo de estratégia em tempo real (RTS) simplificado inspirado no Clash Royale. Use elixir para invocar tropas, destrua a torre do inimigo e receba comentários ao vivo da IA Gemini.",
+  "requestFramePermissions": []
+}
